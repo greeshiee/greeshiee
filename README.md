@@ -1,4 +1,4 @@
-# Hi there, I'm Greeshma! ✨ <br> [![](https://visitcount.itsvg.in/api?id=greeshiee&icon=7&color=8)](https://visitcount.itsvg.in)
+# Hi there, I'm Greeshma! ✨ <br> ![](https://komarev.com/ghpvc/?username=greeshiee&color=green)
 
 # 💫 About Me:
 🎓 I’m a computer science student at UTD.<br>💻 I like working on design and machine learning projects.<br>🌱 I’m currently learning Python frameworks and Go.
